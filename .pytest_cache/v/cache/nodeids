@@ -1,0 +1,10 @@
+[
+  "tests/test_api.py::test_encode_pack_decode_api",
+  "tests/test_api.py::test_nn_wrappers",
+  "tests/test_cpu_cuda.py::test_cpu_cuda_parity",
+  "tests/test_pack.py::test_pack_unpack_roundtrip",
+  "tests/test_parseval.py::test_parseval_cpu",
+  "tests/test_parseval.py::test_parseval_cuda",
+  "tests/test_pr.py::test_pr_cpu",
+  "tests/test_pr.py::test_pr_cuda"
+]
