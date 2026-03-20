@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bandlet-tf"
+version = "0.2.0"
+description = "GPU-first redundant directional tight-frame bandlet-like transform for PyTorch"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Angshul Majumdar"}
+]
+dependencies = [
+  "torch>=2.1"
+]
+
+[tool.setuptools]
+packages = ["bandlet_tf"]

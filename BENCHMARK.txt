@@ -1,0 +1,1 @@
+{'device': 'cpu', 'size': 256, 'batch': 4, 'levels': 2, 'block_size': 8, 'encode_s': 11.323275947999946, 'decode_s': 13.70024886300007}

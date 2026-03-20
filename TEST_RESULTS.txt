@@ -1,0 +1,7 @@
+pytest -q
+8 passed
+python examples/smoke_test.py
+relative_pr_error 1.5336627257056534e-07
+relative_pack_error 1.5336627257056534e-07
+packed_shape (169472,)
+levels 2
